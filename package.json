@@ -19,7 +19,8 @@
   ],
   "author": {
     "name": "Lazaro Osee",
-    "email": "odiraoseelazaro@gmail.com"
+    "email": "odiraoseelazaro@gmail.com",
+    "url": "https://oseelabs.org"
   },
   "license": "MIT",
   "dependencies": {
@@ -32,4 +33,8 @@
     "@types/chalk": "^2.2.0",
     "@types/figlet": "^1.7.0",
     "@types/fs-extra": "^11.0.4",
-    "@types/node": "^20.14.9
+    "@types/node": "^20.14.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  }
+}
