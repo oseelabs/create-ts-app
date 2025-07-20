@@ -62,7 +62,7 @@ The CLI generates a project with the following basic structure:
 ```
 my-new-ts-project/
 ├── src
-        |–––index.ts
+    └── index.ts
 ├── README.md
 └── package.json
 ```
